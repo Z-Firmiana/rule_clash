@@ -1,6 +1,6 @@
 payload:
   # ai
-
+  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
