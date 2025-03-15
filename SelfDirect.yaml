@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,alt8-mtalk.google.com
   # Emby & 机场
   - DOMAIN-SUFFIX,makima.online
+  - DOMAIN-SUFFIX,jiashule.com
   - DOMAIN,alphaio.azurefd.net
   - DOMAIN-SUFFIX,ooo.fmta.boo
   # Steam CN
